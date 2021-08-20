@@ -5,7 +5,7 @@ public class Square implements Shape{
     public int getNumberOfEdges() {
         return 4;
     }
- //just some comments
+ //just some comments  hdjshjd
     @Override
     public int getNumberOfVertices() {
         return 4;
